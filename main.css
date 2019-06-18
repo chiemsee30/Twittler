@@ -9,9 +9,13 @@ h1{text-align: center; margin-top: 20px; color: white; font-size: 6rem; text-sha
 /* 헤더 */
 .main-css{text-align: center;}
 
-input{font-size: 2rem; padding: 20px; text-align: center; width: 80%; border-radius: 20px;}
+input{font-size: 2rem; padding: 20px; text-align: center; width: 70%; border-radius: 20px;}
 
 p{font-size: 3rem; color: white;}
 
 .first-btn{font-size: 3rem; margin-top: 20px; margin-bottom: 20px; background-color: #ff7979; width: 30%; border-radius: 20px; color:white;}
 .second-btn{font-size: 3rem; margin-top: 20px; margin-bottom: 20px; background-color: #FDA7DF; width: 30%; border-radius: 20px; color:white;}
+
+/* 섹션 */
+section .taxt-container div{border: 2px solid #C4E538; text-align: center; padding: 10px; margin: 20px; border-radius: 20px;}
+section .taxt-container button {background-color: #D980FA; font-size: 3rem; color:white; width: 30%; text-align: center;}
