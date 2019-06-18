@@ -1,16 +1,16 @@
 # Twittler
-트위틀러 꾸미기
+🌈트위틀러 꾸미기
 ***
  
-### 1. Header
+### 1. body
   - title
 
-### 2.section
+### 2.header
   - form
   - input
   - Button
   - Button
-  - Box container
+  
 
-### 3. footer
-  - copyright
+### 3. section
+  - Box container
