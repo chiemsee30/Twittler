@@ -4,14 +4,13 @@
  
 ### 1. Header
   - title
+
+### 2.section
   - form
   - input
-  - button
-
-  ### 2.section
-
+  - Button
   - Button
   - Box container
 
-  ### 3. footer
+### 3. footer
   - copyright
